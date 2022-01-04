@@ -291,6 +291,26 @@ border-radius: 50%;
     font-weight: 700;
     color:white;
 }
+
+.click{
+    height: 50px;
+    color:white;
+    background-color: #333;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.click:hover{
+    background-color: #3195ff;
+}
+
+
+
+
+
+
 /********************************end style of courses***********************************/
 .section2{     /*********************start section2***************************/
    
