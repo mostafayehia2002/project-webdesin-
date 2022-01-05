@@ -114,19 +114,6 @@ font-weight: bolder;
     text-transform: lowercase;
 }
 /*****************start logo style***************/
-/*.navbar-brand{
-    position: absolute;
-    top:8px;
-    height: 45px;
-    width:45px;
-    border:3px solid white;
-    border-radius: 50%;
-}
-.navbar-brand:hover{
-    border-color:#3195ff;
-
-}*/
-
 .navbar-brand img{
     height: 70PX;
     width:70px;
