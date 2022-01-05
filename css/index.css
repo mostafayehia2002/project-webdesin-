@@ -114,7 +114,7 @@ font-weight: bolder;
     text-transform: lowercase;
 }
 /*****************start logo style***************/
-.navbar-brand{
+/*.navbar-brand{
     position: absolute;
     top:8px;
     height: 45px;
@@ -124,7 +124,17 @@ font-weight: bolder;
 }
 .navbar-brand:hover{
     border-color:#3195ff;
+
+}*/
+
+.navbar-brand img{
+    height: 70PX;
+    width:70px;
+    position: absolute;
+    top:2px;
+    
 }
+
 /************ end style of logo************/
 .buttom-page{
     display: flex;
